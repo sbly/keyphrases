@@ -1,0 +1,1567 @@
+dimension_id,"name",parent_id,type_id
+1,"Screen",NULL,1
+2,"Size",NULL,1
+3,"Camera",NULL,1
+4,"Calling",NULL,1
+5,"Keyboard",NULL,1
+6,"Speed",NULL,1
+7,"Voice Recognition",NULL,1
+8,"Apps",NULL,1
+10,"Battery Life",NULL,1
+11,"Internet",NULL,1
+12,"GPS",NULL,1
+13,"Memory",NULL,1
+14,"Simplicity",9,1
+15,"Design",17,1
+16,"Durability",17,1
+17,"Construction",NULL,1
+18,"Resolution",1,1
+19,"Call Quality",4,1
+20,"Media (Apps)",8,1
+21,"Tethering",11,1
+22,"Wifi",11,1
+23,"Touch Screen",1,1
+24,"3G",11,1
+25,"Size (Screen)",1,1
+26,"Internal Memory",13,1
+615,"",NULL,1743
+29,"4G",11,1
+30,"Speakerphone",4,1
+31,"Browsing",11,1
+32,"Style",17,1
+33,"Flash",3,1
+34,"Email",NULL,1
+35,"Corporate",34,1
+36,"Bluetooth",NULL,1
+37,"Picture Quality",3,1
+38,"Required Data Plan",11,1
+39,"Video (Camera)",3,1
+40,"Notifications",9,1
+41,"Video (Apps)",8,1
+42,"Media (General)",9,1
+43,"Price",NULL,1
+44,"Multitasking",9,1
+46,"Speed (Internet)",11,1
+47,"Texting",NULL,1
+48,"Customization",9,1
+95,"Adjustable Length",NULL,2
+94,"Sturdiness",NULL,1743
+93,"Opening",NULL,1984
+1188,"Features",NULL,4072
+89,"Quality",NULL,2
+88,"Effectiveness",NULL,2
+87,"Width",NULL,2
+86,"Length",NULL,2
+84,"Ease_of_use",NULL,2
+83,"Durable",NULL,2
+82,"Expandable",NULL,2
+1003,"Dimension1",NULL,1743
+97,"Ease Of Use",NULL,1743
+1001,"Displan",NULL,1743
+99,"Height",NULL,1984
+102,"Safety",NULL,1984
+103,"Coverage",NULL,2
+105,"Alternatives",NULL,1984
+107,"Adujstability",NULL,1906
+108,"Looks",NULL,1906
+109,"Dimensions",NULL,2
+1004,"Test1",NULL,1743
+111,"Thing1",NULL,1234
+112,"Description",NULL,1234
+115,"Compatability",NULL,1234
+119,"Ease To Use",NULL,1530
+120,"Content",NULL,1530
+121,"Processor",NULL,1530
+122,"Mobility",NULL,1530
+124,"Free Stuff",NULL,1530
+125,"Cloud Storage",NULL,1530
+127,"Aesthetics",NULL,1906
+128,"Dimension",NULL,1534
+130,"Eclair",NULL,1
+131,"Ram",NULL,1
+132,"Capacitive Screen",NULL,1
+133,"Not Updated To Gingerbread",NULL,1
+134,"Processor 528M",NULL,1
+135,"Android",NULL,1
+136,"Android2.3",NULL,1
+137,"Processor Snapdragon",NULL,1
+138,"Price $345",NULL,1
+139,"Gorilla Glass",NULL,1
+140,"Android 1.5",NULL,1
+141,"192",NULL,1
+142,"Price $180",NULL,1
+143,"Price $364",NULL,1
+144,"Weight",NULL,1
+145,"Back Support",NULL,1738
+146,"Keyboard Panel",NULL,1738
+147,"Work Surface",NULL,1738
+148,"Storage",NULL,1738
+149,"Time To Build",NULL,1738
+150,"Comfortable",NULL,1738
+151,"Color",NULL,1861
+155,"Reviews",NULL,1861
+156,"Camera Specs",NULL,1148
+158,"Memory On Device",NULL,1148
+160,"Movie Mode",NULL,0
+161,"Zoom",NULL,0
+610,"Headlamp",NULL,0
+163,"HD Camera",NULL,0
+164,"OS",NULL,0
+165,"Hard Drive",NULL,0
+166,"Battery",NULL,0
+168,"USB Ports",NULL,0
+613,"Big Juice",NULL,3001
+173,"Enjoyment",NULL,0
+175,"Time Capsule",NULL,0
+176,"Party",NULL,0
+178,"Customer Support",NULL,0
+1240,"Adjustability",NULL,0
+599,"Res",NULL,0
+181,"Warping",NULL,0
+182,"Appearance",NULL,0
+612,"Spike Shoes",NULL,0
+184,"Fun",NULL,0
+611,"Rock Wall",NULL,0
+186,"Flexibility",NULL,0
+187,"Upper-net",NULL,0
+188,"Lower-net",NULL,0
+189,"L",NULL,0
+190,"Unpredictable",NULL,0
+192,"Stabilization",NULL,0
+193,"Stab",NULL,0
+194,"Sta",NULL,0
+195,"Wrap",NULL,0
+197,"General",NULL,0
+199,"Value",NULL,0
+201,"UI",NULL,0
+1517,"Ease Of Cleaning",NULL,0
+592,"Shar",NULL,0
+204,"Val",NULL,0
+205,"Newdimension",NULL,0
+206,"Buttons",NULL,0
+207,"Button Layout",NULL,0
+208,"Plug & Play",NULL,0
+209,"Sturdy",NULL,0
+210,"D Pad",NULL,0
+211,"Image Quality",NULL,0
+212,"Something",NULL,0
+213,"That",NULL,0
+214,"Things",NULL,0
+215,"Mario",NULL,0
+216,"Maro",NULL,0
+1494,"LCD Screen Articulated",NULL,0
+219,"Games",NULL,0
+220,"NES",NULL,0
+221,"Stuff",NULL,0
+222,"Elements",NULL,0
+223,"Element",NULL,0
+224,"Purchase",NULL,0
+225,"Elem",NULL,0
+226,"Deliv",NULL,0
+228,"Accuracy",NULL,0
+229,"Trap",NULL,0
+230,"Destruction",NULL,0
+231,"Digital",NULL,0
+232,"Upgrade",NULL,0
+233,"Lens Upgrade",NULL,0
+235,"LCD Screen",NULL,0
+236,"Quality Of Pics",NULL,0
+237,"Professional Users",NULL,0
+238,"Cost With Lens Upgrade",NULL,0
+239,"Functionality/Ease Of Use",NULL,0
+240,"Low-light Performance",NULL,0
+241,"Built In Flash",NULL,0
+242,"Video Quality",NULL,0
+243,"Start Up Speed",NULL,0
+244,"Audio Recording Audjustments",NULL,0
+245,"Rugged",NULL,0
+246,"Ergonomic Control Arrangement",NULL,0
+247,"Articulating LCD Screen",NULL,0
+248,"Stability",NULL,0
+249,"Shutter Speed",NULL,0
+250,"Firmware",NULL,0
+251,"LCD Screen Resolution",NULL,0
+252,"Low Light Image Quality",NULL,0
+253,"Lens Compatibility",NULL,0
+254,"Borrowing",NULL,0
+256,"Streaming",NULL,0
+1530,"No Autofocus",NULL,NULL
+258,"Batteru",NULL,0
+259,"Relating To Me",NULL,0
+260,"HD Video",NULL,0
+261,"Costs",NULL,0
+262,"Customer Service",NULL,0
+263,"Cleaning Up",NULL,0
+265,"Installation",NULL,0
+266,"Weight Limits",NULL,0
+268,"Conven",NULL,1743
+269,"Performance - Speed",NULL,0
+270,"Travel",NULL,0
+271,"Everyday Use",NULL,0
+272,"Focus",NULL,0
+273,"Lens Ease Of Use",NULL,0
+274,"Navigation",NULL,0
+275,"Distance Photography",NULL,0
+276,"Low Resolution",NULL,0
+277,"Heavy",NULL,0
+278,"Lightweight",NULL,0
+279,"Great Image Quality",NULL,0
+281,"Battery Weight",NULL,0
+282,"Battery Li",NULL,0
+283,"Hard To Install",NULL,0
+284,"Recommended By Consumer Reports",NULL,0
+285,"Holds Child Up To 65 Pounds",NULL,0
+286,"Easy To Install",NULL,0
+287,"Installing",NULL,0
+288,"Kid Liking It",NULL,0
+289,"Material",NULL,0
+290,"Size Of Seat",NULL,0
+291,"Cleaning",NULL,0
+292,"Bread",NULL,0
+293,"Video Features",NULL,0
+294,"Weight (relatively Light)",NULL,0
+295,"Performance Speed",NULL,0
+296,"Customer Use",NULL,0
+297,"In Live Picture Mode",NULL,0
+298,"Low-light Performance.",NULL,0
+299,"User Friendliness",NULL,0
+300,"Low Weight",NULL,0
+301,"Price--expensive.",NULL,0
+302,"Autofocus When Zooming",NULL,0
+303,"Battery--need An Extra",NULL,0
+304,"Controls User Friendly",NULL,0
+305,"Zooming",NULL,0
+306,"Comparing With Other Cameras",NULL,0
+307,"Autofocus (too Slow)",NULL,0
+308,"Use For Beginners",NULL,0
+309,"Price Becoming Cheaper",NULL,0
+310,"Tips: Uv Filter",NULL,0
+311,"Spare Battery",NULL,0
+312,"First Time User",NULL,0
+313,"Great Reviews",NULL,0
+314,"Quality (grainy)",NULL,0
+315,"Lowlight Auto Focus",NULL,0
+316,"Balance",NULL,0
+317,"Good Quality Videos",NULL,0
+318,"Speed In Comparison To T2i",NULL,0
+319,"Unpredicatable",NULL,0
+320,"Can Be Used Everyday",NULL,0
+321,"Delays",NULL,0
+322,"Feel",NULL,0
+323,"First Time Users",NULL,0
+324,"Ergonomic",NULL,0
+325,"User Friendly",NULL,0
+326,"Clear View Finder",NULL,0
+327,"Cust",NULL,0
+328,"Weight--light",NULL,0
+329,"Customer Reviews",NULL,0
+333,"Poor Auto Quality",NULL,0
+334,"Simple Menu",NULL,0
+335,"Autofocus ",NULL,0
+336,"Flip Out Screen",NULL,0
+337,"Slow Auto Focus",NULL,0
+338,"Usability In Awkward Shooting Positions",NULL,0
+339,"Slo Mo Great",NULL,0
+340,"Weight And Design",NULL,0
+341,"Operation",NULL,0
+342,"Brand Specific Memory Cards",NULL,0
+343,"C",NULL,0
+344,"Auto Features Low Quality Picture",NULL,0
+345,"And Quality",NULL,0
+346,"Grainy Pictures",NULL,0
+347,"Not Very User Friendly For Novices",NULL,0
+348,"Versatile Usage - Beginner To Advanced",NULL,0
+349,"Fast Autofocus",NULL,0
+350,"Battery Life Low",NULL,0
+351,"Fast Start Up",NULL,0
+352,"Heavy But Sturdy",NULL,0
+353,"Small And Lightweight",NULL,0
+355,"Superb Image Quality",NULL,0
+356,"Low Light",NULL,0
+357,"Flexible For Novices And Experts",NULL,0
+358,"Flip Out LCD",NULL,0
+359,"Many Modes",NULL,0
+360,"Live Mode Slow",NULL,0
+361,"But Faster Than T3i",NULL,0
+362,"Controls Are A Little Harder",NULL,0
+363,"Comfort",NULL,0
+364,"Space",NULL,0
+365,"Removable Head Rest",NULL,0
+366,"Options Are Explained",NULL,0
+367,"Yellowish Images",NULL,0
+368,"T2i Better",NULL,0
+369,"Material Of Seat Cover",NULL,0
+370,"Power Switch Is Perfectly Placed",NULL,0
+371,"Motion Shots Are Clear",NULL,0
+372,"Hard To Clean",NULL,0
+373,"Poor Quality Pix",NULL,0
+374,"Customer Review Ratings",NULL,0
+375,"UV Filter",NULL,0
+376,"Auto Focus",NULL,0
+377,"Screen Lens",NULL,0
+378,"Auto",NULL,0
+379," Speed",NULL,0
+380,"Service",NULL,0
+381,"Service Warranty",NULL,0
+382,"Aut",NULL,0
+383,"Longer Battery Life",NULL,0
+384,"Customer ",NULL,0
+387,"T3i Better Than Nikon",NULL,0
+388,"Roomier Than Other Carriers",NULL,0
+389,"Installation Might Be Hard Without Directions--not Intuitive",NULL,0
+390,"FIt",NULL,0
+391,"Head Rest Does Not Block Driver View",NULL,0
+392,"Use",NULL,0
+393,"Install",NULL,0
+394,"A Bigger Car Seat",NULL,0
+395,"Not For Use As An Infant Seat",NULL,0
+396,"Baby Comfort",NULL,0
+397,"Roomy",NULL,0
+398,"Detachable Cup Holder",NULL,0
+399,"Easy To Clean For Accidents",NULL,0
+400,"Easy Installation",NULL,0
+401,"Feature",NULL,0
+402,"Not For Smaller Vehicles",NULL,0
+403,"Size Fits Infants To Toddlers",NULL,0
+404,"Instructions Simple",NULL,0
+405,"Bulky",NULL,0
+406,"Adjustable Height",NULL,0
+407,"Padding Issues",NULL,0
+408,"More Expensive",NULL,0
+409,"Roomier Than Other Seats",NULL,0
+410,"Cheap",NULL,0
+411,"User Friendly Easy To Install",NULL,0
+413,"Safe",NULL,0
+414,"And Secure",NULL,0
+415,"Initially More Difficult To Install",NULL,0
+416,"Scratchy Cover Material",NULL,0
+417,"Harder To Adjust For Straps",NULL,0
+418,"Harder To Clean",NULL,0
+419,"Requires A Seat Protector",NULL,0
+420,"Cleanabilty",NULL,0
+421,"View Obstruction",NULL,0
+422,"Parts",NULL,0
+423,"Thickness",NULL,0
+424,"Easy To Carry",NULL,0
+425,"That Is",NULL,0
+426,"Neither Cumbersome Nor Heavy.",NULL,0
+427,"Light Weight",NULL,0
+428,"Built-in Flash Being Less The Optimal",NULL,0
+429,"LOTS OF POSITIVE FEATURES",NULL,0
+430,"ALL FIVE STARS",NULL,0
+431,"Want Of Autofocus Whilst Zooming.",NULL,0
+432,"18-135mm Lens (single Lens)",NULL,0
+433,"Average 4.5 Stars",NULL,0
+434,"Relative Cost",NULL,0
+435,"High-def Capability",NULL,0
+436,"Good For Novices",NULL,0
+437,"No Flip Out LCD",NULL,0
+438,"Cons About Product",NULL,0
+439,"Lack Of Adjustment Bar For Audio Recording Purposes",NULL,0
+440,"Controls Easy To Use",NULL,0
+441,"How Quickly Pictures Are Taken",NULL,0
+442,"Name Of Product",NULL,0
+443,"Articulated LCD Screen To Facilitate Taking Pictures From Awkward Angles",NULL,0
+444,"T3i Body Is Solid",NULL,0
+445,"Positive Review",NULL,0
+446,"Durable Neck Strap Not To Mention Being A Lightweight Device",NULL,0
+447,"3 Star Review Complains About Delays",NULL,0
+448,"Average Review 4.5",NULL,0
+449,"Slower Than T2i",NULL,0
+450,"Another Positive Review",NULL,0
+451,"Its Auto Mode Not Taking The Highest Quality Of Pics",NULL,0
+452,"Pros About The Camera",NULL,0
+453,"Cons About The Camera",NULL,0
+454,"1080 P Video",NULL,0
+455,"Mistake To Buy 2 Lenses",NULL,0
+456,"Ease Of Operation",NULL,0
+457,"Price 549",NULL,0
+458,"No Wireless Remote As Well As The Low Resolution Of Its LCD Screen",NULL,0
+459,"Pros About The Product",NULL,0
+460,"Battery Longevity From Day To Day",NULL,0
+461,"Useful For Beginners",NULL,0
+462,"Point And Shoot Mode",NULL,0
+463,"Its Live Mode Feature Speed",NULL,0
+464,"Average 4.5 Out Of 5 Stars",NULL,0
+465,"Light Wt And Easy To Operate",NULL,0
+466,"APS-C Sensor And Hi-res Screen Alike",NULL,0
+467,"699",NULL,0
+468,"Perfect For Beginners",NULL,0
+469,"Price - $699 ",NULL,0
+470,"Pros",NULL,0
+471,"Easy To Use",NULL,0
+472,"Cons About Camera",NULL,0
+473,"Common Issues Between Nikon Vs Canon",NULL,0
+474,"Better Video Than D3100",NULL,0
+475,"Nikon Has Better Image Quality Than Canon T3i",NULL,0
+476,"Name Of P Roduct",NULL,0
+477,"Plus Price",NULL,0
+478,"4.5 Revew 799 Price",NULL,0
+479,"Removable Headrest",NULL,0
+480,"Economical",NULL,0
+481,"Or Relatively Inexpensive",NULL,0
+482,"Or Comparably Inexpensive",NULL,0
+483,"Seat Comfort And Level Of Support (padding)",NULL,0
+484,"Ease Of Installation",NULL,0
+485,"Not Easy To Clean Nor Is The Headrest Detachable",NULL,0
+486,"Disagreeably Big",NULL,0
+487,"Installation Difficult And Time-consuming",NULL,0
+488,"Breathability",NULL,0
+489,"799",NULL,0
+490,"Cons",NULL,0
+491,"Rated Number 1 On Consumer Reports",NULL,0
+492,"Name Price Not Given",NULL,0
+493,"Easy To Use And Install",NULL,0
+494,"Consumer Reports #1",NULL,0
+495,"Complaint About Cleaning 3 Star",NULL,0
+496,"Size Is Big",NULL,0
+497,"Highest Safety Rating",NULL,0
+498,"Very Bulky",NULL,0
+499,"Big",NULL,0
+500,"Tight Fit In Civic",NULL,0
+501,"Seat Breaths For Child Comfort",NULL,0
+502,"Difficult To Install Rear Facing",NULL,0
+503,"Gigantic And Difficult To Install",NULL,0
+504,"Megapixel",NULL,0
+505,"Lens Typ",NULL,0
+506,"Newcomers To DSLR",NULL,0
+507,"Saving Money On Lenses",NULL,0
+508,"Monitor",NULL,0
+509,"Speed & Performance",NULL,0
+510,"Light",NULL,0
+511,"Lens Us",NULL,0
+512,"18 Mp ",NULL,0
+513,"Lens Lif Amature",NULL,0
+514,"\"best You Can Get For The Money\"",NULL,0
+515,"18 MP Stills",NULL,0
+516,"Low Cost",NULL,0
+517,"16.2 Megapixel",NULL,0
+518,"Great Zoom In",NULL,0
+519,"User Friend",NULL,0
+520,"Mostly Same Features As T2i",NULL,0
+521,"Auto-mode Pictures Not Best Quality",NULL,0
+522,"Mediocre Battery Life",NULL,0
+523,"Low LCD Screen Res",NULL,0
+524,"Noisy Lens",NULL,0
+525,"Easy To Operate Layout Of Buttons Compared To T2i",NULL,0
+526,"Guide Mode Seems Helpful",NULL,0
+527,"Slow Autofocus On LCD",NULL,0
+529,"Usage",NULL,0
+530,"Options",NULL,0
+531,"Driver Safety",NULL,0
+532,"Slightly Difficult To Install",NULL,0
+533,"Material Quality",NULL,0
+534,"Material Scratches Easily On Velcro Shoes",NULL,0
+535,"Customer Service Replaced Scratched  Cover Free",NULL,0
+537,"Introductions Make Difficult Installation Easier",NULL,0
+538,"Baby Safety",NULL,0
+539,"Roominess",NULL,0
+540,"Very Large",NULL,0
+541,"Difficult To Clean",NULL,0
+542,"Size Make Rear Facing An Issue In Some Cars",NULL,0
+543,"Wings Support Head",NULL,0
+544,"Nice Fabric",NULL,0
+545,"Padding Inadequate In Some Places",NULL,0
+546,"Sun Visor Large And Ineffective ",NULL,0
+548,"Audio",NULL,0
+632,"Deal",NULL,0
+631,"Attribute",NULL,0
+629,"Lens",NULL,4001
+628,"Performance",NULL,4031
+627,"Sway",NULL,4031
+624,"Lens Kit",NULL,4009
+620,"Uses",NULL,4007
+619,"Money",NULL,4009
+617,"Blank",NULL,1743
+998,"LCD Screens",NULL,1743
+606,"Duration",NULL,0
+577,"Displa",NULL,0
+576,"547",NULL,0
+635,"AE",NULL,0
+636,"Italics",NULL,0
+637,"Trial",NULL,0
+638,"HDMI",NULL,0
+1000,"Megapixels",NULL,1743
+644,"User-friendliness And Functionality",NULL,4019
+650,"Low Light AF",NULL,4019
+652,"Autofocus/zoom",NULL,4011
+653,"Taking Wide Angle Pictures",NULL,4015
+655,"Taking Live Pictures",NULL,4015
+657,"Accessories",NULL,4017
+658,"Durability And Size",NULL,4019
+660,"Slow Motion Video",NULL,4011
+661,"Zooming Autofocus",NULL,4013
+663,"Additional Info",NULL,4017
+665,"Autofocus/low Light",NULL,4011
+666,"Comparison",NULL,4017
+669,"MP",NULL,4013
+671,"Kit Lens",NULL,4019
+673,"Video",NULL,4019
+675,"Manual Focus/video",NULL,4011
+676,"Good For Motion Pictures",NULL,4015
+677,"AF",NULL,4019
+678,"Smaller Sensor",NULL,4019
+681,"Customer Review 4/5",NULL,4013
+682,"Low Light Shooting",NULL,4019
+683,"Video Zoom",NULL,4011
+684,"Continuous Mode",NULL,4015
+685,"Point And Shoot",NULL,4017
+686,"Auto Lens Mode",NULL,4011
+687,"Automode And Point",NULL,4013
+688,"Expensive Memory Card Required",NULL,4019
+689,"Modes",NULL,4011
+692,"Auto ISO",NULL,4019
+693,"Lcd",NULL,4011
+694,"New User",NULL,4017
+695,"Noises",NULL,4011
+696,"Guide Mode",NULL,4013
+698,"Holding Camera In Awkward Positions",NULL,4015
+699,"Good For Carrying Around",NULL,4015
+700,"Low Res LCD",NULL,4019
+704,"Carrying Around For A Long Time",NULL,4015
+706,"Lens Price",NULL,4013
+707,"For Armature Photographers And Beginners",NULL,4015
+709,"Taking Easy Pictures",NULL,4015
+710,"Taking Videos",NULL,4015
+717,"Straps",NULL,4018
+718,"Head Rest",NULL,4012
+720,"Rating",NULL,4018
+721,"Ratings",NULL,4012
+722,"Snug Fit",NULL,4012
+727,"Bulk",NULL,4012
+728,"Adjusting While Facing Rear",NULL,4012
+732,"Support",NULL,4011
+734,"Installatin",NULL,4018
+739,"Quality And Price",NULL,4020
+740,"Sun Visor",NULL,4012
+742,"Comfortable And Safe",NULL,4020
+743,"Extra Base",NULL,4012
+744,"Weight Limit",NULL,4012
+745,"Padding",NULL,4012
+747,"Visor",NULL,4018
+748,"High Weight Limit",NULL,4020
+751,"Rear Facing Fit",NULL,4012
+753,"Washability",NULL,4012
+759,"Size In Smaller Cars",NULL,4014
+760,"Safe And Comfortable",NULL,4020
+762,"Adjust In Rear Facing",NULL,4014
+763,"Smaller Size ",NULL,4014
+764,"Recline",NULL,4014
+766,"Seat Padding",NULL,4014
+768,"Spacious",NULL,4016
+770,"Not Blocking The View",NULL,4016
+772,"Affordability",NULL,4016
+774,"Comfortable Texture",NULL,4016
+775,"Adjustable Position",NULL,4016
+776,"Quick And Easy Installation",NULL,4016
+777,"Holding A Baby",NULL,4016
+778,"Sun Screening",NULL,4016
+779,"Getting The Base In A Level Position",NULL,4016
+780,"Not Sure About The Weight Limit",NULL,4016
+781,"Convenient For Holding Cups",NULL,4016
+782,"Cleaning The Seat",NULL,4016
+783,"Suitable For Babies Of A Wide Age Range",NULL,4016
+784,"Memory Card",NULL,4040
+785,"Higher Cost",NULL,4034
+786,"Improved Default Lens",NULL,4036
+788,"Upgrades Lens If Beginner DSLR",NULL,4034
+791,"Overall Use And Picture/video Capability",NULL,4034
+793,"Cost",NULL,4038
+795,"Flash Performance",NULL,4036
+797,"Auto Focus For Video",NULL,4038
+798,"Automatic Built In Flash ",NULL,4034
+799,"Slow Focus",NULL,4038
+800,"Needs Uv Filter",NULL,4038
+801,"Angle Settings Can Create Shade",NULL,4034
+802,"User Interface",NULL,4036
+803,"Awesome Camera",NULL,4032
+804,"Needed Accessories",NULL,4034
+807,"Excellent Still Photos Compared To Competitors",NULL,4034
+808,"Extra Features",NULL,4036
+809,"Audio Recording Level Adjust",NULL,4038
+810,"High Definition",NULL,4036
+812,"Frequent Delays",NULL,4038
+813,"Attribute- Saving In 2 Forms Till Used To Camera",NULL,4034
+814,"Right Hand Grip",NULL,4038
+816,"Neck Strap",NULL,4038
+817,"Beginner DSLR",NULL,4036
+818,"Attribute- Pixel And Grain Makeup",NULL,4034
+821,"For Any Photographer",NULL,4038
+822,"Design And Overall Weight",NULL,4034
+824,"Hdmi Input But No Cable Included",NULL,4038
+825,"Attribute- Quick Auto Focus",NULL,4034
+826,"Warranty Service",NULL,4038
+829,"Autofocus SLOW",NULL,4038
+831,"Loud Autofocus Motors",NULL,4038
+835,"Attribute- Ergonomic Design",NULL,4034
+837,"Worthwhile Price ",NULL,4034
+840,"Fast Auto Focus",NULL,4038
+841,"Noisey Lens",NULL,4038
+844,"Fits Snug",NULL,4033
+845,"Head Neck Support",NULL,4033
+846,"Soft Comfy",NULL,4033
+847,"Holds Up To 65 Lbs",NULL,4033
+848,"Intuitive Controls",NULL,4036
+850,"Auto-focus",NULL,4036
+851,"Manual Focus",NULL,4036
+858,"Attribute- Design",NULL,4034
+886,"Warranty",NULL,4037
+861,"Overall Design Of Product",NULL,4034
+864,"Safety Rating",NULL,4035
+867,"Lots Of Room",NULL,4039
+870,"Attribute- Easy Child Placement/removal",NULL,4035
+871,"A Little Difficult To Install",NULL,4039
+872,"Fabric Wears Easily",NULL,4039
+873,"Company Sent Woman New Cover Free",NULL,4039
+874,"Dimension- Weight Capability",NULL,4035
+878,"Fits Well In Cars",NULL,4039
+880,"Attribute- Quick Installation",NULL,4035
+881,"Padded Well",NULL,4039
+882,"Quality- Difficult To Clean",NULL,4035
+883,"Material Easy To Clean",NULL,4039
+885,"Seat Material",NULL,4037
+890,"Easy Set Up",NULL,4039
+892,"Sleeping",NULL,4039
+893,"Had To Face Forward Because Of Size",NULL,4039
+894,"Head Rest Does Not Come Off",NULL,4039
+896,"Well Made",NULL,4039
+897,"Head Support Cushion",NULL,4039
+898,"Soft Material",NULL,4039
+899,"Crash Tested",NULL,4039
+900,"Sun  Visor Is Mesh",NULL,4039
+902,"No Padding In Seat",NULL,4039
+904,"Built-in Flash",NULL,4050
+953,"Poor Battery Life",NULL,4048
+907,"First DSLR",NULL,4044
+910,"Previous Research Reassuring",NULL,4046
+911,"True To Ad",NULL,4046
+912,"Lens Quality",NULL,4044
+914,"Equipment",NULL,4044
+917,"Not Needing To Change Lenses",NULL,4048
+918,"No Auto Focus",NULL,4048
+919,"Saving money",NULL,4046
+924,"\"Better\" Quality Cameras And Price",NULL,4044
+929,"Grip",NULL,4046
+930,"Delays In Taking Photos",NULL,4048
+934,"CONS - Battery",NULL,4044
+935,"CONS - Wireless",NULL,4044
+936,"Delivery Speed",NULL,4046
+937,"Cons- Screen ",NULL,4044
+938,"Being User Friendly",NULL,4048
+940,"Auto Shoot Quality",NULL,4046
+942,"Flip Around Screen For Different Positions",NULL,4048
+947,"Unclear Shots",NULL,4048
+948,"USE- Battery",NULL,4044
+950,"Pixels",NULL,4042
+951,"Very Fast Auto Shooting",NULL,4048
+960,"Easy To Use When Reading Instructions",NULL,4049
+961,"Headrest Is Removable",NULL,4049
+964,"View Of Driver",NULL,4045
+966,"Larger Car Seat",NULL,4049
+970,"Seat Cover Quality",NULL,4045
+972,"Company Customer Service",NULL,4045
+974,"Adjusting Strap Length In Rear Position",NULL,4049
+975,"Big Car Seat",NULL,4049
+978,"Rear Facing",NULL,4049
+980,"Efficiency ",NULL,4045
+981,"Not Removable",NULL,4049
+982,"Reasonable Price",NULL,4049
+983,"Head/neck Support",NULL,4049
+984,"No Padding Where Baby Sits",NULL,4049
+991,"Reclination",NULL,4043
+992,"Base",NULL,4043
+995,"Room",NULL,4043
+1187,"User",NULL,4072
+1009,"Cost Analysis",NULL,4054
+1013,"Cosr",NULL,4054
+1018,"Controls",NULL,4054
+1019,"Perf",NULL,4054
+1022,"Change Lens",NULL,4056
+1026,"Live Picture Mode Slow",NULL,4056
+1036,"Fast Continuous Mode",NULL,4056
+1037,"Overall",NULL,4052
+1038,"External",NULL,4054
+1040,"No Instant Response",NULL,4056
+1042,"Picture",NULL,4052
+1044,"Articulated LCD Screen",NULL,4056
+1045,"7D",NULL,4058
+1046,"No Travel Type Charger",NULL,4056
+1048,"View Finder",NULL,4058
+1066,"Installation And Others",NULL,4055
+1050,"Right-hand Grip",NULL,4058
+1051,"Fits Easy On Tripod",NULL,4056
+1053,"Ergonomics",NULL,4052
+1054,"Firm Grip",NULL,4058
+1055,"No Cable For HDMI Input",NULL,4056
+1058,"Video Manual Focus",NULL,4058
+1059,"18-135 Lens Large",NULL,4056
+1060,"Dedicated Iso Button",NULL,4056
+1061,"Pictures",NULL,4052
+1062,"Very Sturdy ",NULL,4058
+1064,"Auto Mode Not Good Quality Pictures",NULL,4056
+1071,"Comf",NULL,4055
+1073,"Poor Quality Material",NULL,4057
+1074,"Well Padded",NULL,4057
+1078,"Revie",NULL,4055
+1079,"Baby Can See Out Windows",NULL,4057
+1080,"One Day Delivery",NULL,4057
+1081,"Comfo",NULL,4055
+1087,"Infant Acceptance",NULL,4053
+1088,"Comfortability",NULL,4053
+1096,"Convenience",NULL,4053
+1099,"Control And Functionality",NULL,4062
+1103,"Suggestions",NULL,4062
+1104,"Variability",NULL,4062
+1108,"Responsiveness",NULL,4062
+1112,"Functionality",NULL,4062
+1116,"Shutter",NULL,4068
+1118,"Body",NULL,4068
+1119,"Model Name",NULL,4066
+1122,"Aut Mode",NULL,4068
+1125,"Video Speed",NULL,4064
+1129,"Autofocus Zoom",NULL,4064
+1131,"Focus Auto Zoom",NULL,4064
+1164,"Overall Review",NULL,4067
+1140,"Expertise",NULL,4064
+1158,"Featuures",NULL,4069
+1161,"Size Of Car Seat",NULL,4067
+1166,"Mesh Does Not Block Sun",NULL,4067
+1167,"Padding Protection",NULL,4067
+1168,"Install Time",NULL,4067
+1171,"Adjustable",NULL,4065
+1172,"Size For Vehicle",NULL,4065
+1176,"Size For Veh",NULL,4065
+1179,"Delivery",NULL,4065
+1181,"Size For Ve",NULL,4065
+1184,"Size For V",NULL,4065
+1185,"Confort",NULL,4065
+1189,"Hivemind",NULL,4072
+1191,"Feature Comparison",NULL,4072
+1192,"Features Comparison",NULL,4072
+1193,"User Credibility",NULL,4072
+1194,"User Comparison",NULL,4072
+1195,"User Opinion",NULL,4072
+1196,"Usage/Stability",NULL,4074
+1201,"Flash, Lense",NULL,4074
+1202,"Beginner Experience",NULL,4074
+1203,"Lighting",NULL,4074
+1205,"T2 Better Than T3",NULL,4074
+1208,"Usage/Value",NULL,4074
+1210,"Usage, Value",NULL,4074
+1225,"Child Comfort",NULL,4075
+1227,"Safety, Child Comfort",NULL,4075
+1228,"Installation (Ease Of Use)",NULL,4075
+1230,"Stills",NULL,0
+1232,"Happiness With One Over Other",NULL,0
+1233,"Value/Price",NULL,0
+1234,"Audience",NULL,0
+1235,"HDMI Capability",NULL,0
+1236,"Automodes",NULL,0
+1237,"Usability ",NULL,0
+1238,"Usability Overall",NULL,0
+1241,"Customer Satisfaction",NULL,0
+1242,"Satisfaction",NULL,0
+1243,"Instructions",NULL,0
+1244,"Adaptability ",NULL,0
+1245,"Sum Of Negatives",NULL,0
+1246,"Camera Body",NULL,0
+1247,"T2 Vs T3",NULL,0
+1248,"Develop Over Time",NULL,0
+1249,"Macro",NULL,0
+1250,"Video Zoom External Flash",NULL,0
+1251,"Too High ISO ",NULL,0
+1253,"Sum Advantages",NULL,0
+1256,"Live Picture",NULL,0
+1255,"Guide",NULL,0
+1258,"Price Value",NULL,0
+1263,"Battery Charge",NULL,0
+1264,"Batter",NULL,0
+1265,"Model",NULL,0
+1266,"T2i",NULL,0
+1267,"Ergonomic Arrangement",NULL,0
+1268,"SLR",NULL,0
+1269,"T3i",NULL,0
+1270,"Subject",NULL,0
+1271,"D5100",NULL,0
+1273,"Recommendations",NULL,0
+1275,"Maintenance",NULL,0
+1276,"Comfort Safety",NULL,0
+1277,"Install Use",NULL,0
+1280,"Ease Of Acess",NULL,0
+1281,"Attachments",NULL,0
+1282,"Target user type",NULL,0
+1286,"External Flash",NULL,0
+1288,"Learning",NULL,0
+1289,"Britax Car Seats",NULL,0
+1291,"Instal",NULL,0
+1292,"Smaller Cars",NULL,0
+1293,"Car Seat",NULL,0
+1295,"Infant Car Seat",NULL,0
+1296,"Security",NULL,0
+1299,"Clean",NULL,0
+1298,"Seat",NULL,0
+1300,"F",NULL,0
+1301,"Backward Facing",NULL,0
+1302,"Space Occupied",NULL,0
+1303,"Installa",NULL,0
+1304,"Comfort - Material",NULL,0
+1305,"Comfort - Space",NULL,0
+1306,"Comfort - Padding",NULL,0
+1308,"Life",NULL,0
+1311,"Size Of Images",NULL,0
+1312,"Quality Of Photos",NULL,0
+1313,"Uv Filter And Battery",NULL,0
+1314,"Repeat",NULL,0
+1315,"Info",NULL,0
+1316,"Memory And Format",NULL,0
+1318,"Auto Mode Quality",NULL,0
+1320,"Mega Pixel",NULL,0
+1321,"Beginner Friendly",NULL,0
+1322,"Video Recording",NULL,0
+1323,"Burst Rate",NULL,0
+1324,"Crop",NULL,0
+1325,"Overall Performance",NULL,0
+1326,"Aperture",NULL,0
+1328,"Wireless",NULL,0
+1329,"Megapiel",NULL,0
+1330,"Megapxiel",NULL,0
+1332,"Response",NULL,0
+1334,"Settings",NULL,0
+1335,"Display",NULL,0
+1336,"Opinion",NULL,0
+1338,"Particulars",NULL,0
+1339,"User Freindly",NULL,0
+1340,"Screen, Articulating",NULL,0
+1341,"Software",NULL,0
+1342,"Price, General",NULL,0
+1343,"User Comfort",NULL,0
+1344,"Value For Money",NULL,0
+1345,"Adjust",NULL,0
+1346,"Install-ability ",NULL,0
+1347,"Seat Size",NULL,0
+1348,"Installability",NULL,0
+1351,"Repeaet",NULL,0
+1352,"Searvice",NULL,0
+1354,"Convertability",NULL,0
+1356,"Fitting",NULL,0
+1357,"Brand",NULL,0
+1360,"Taking Pictures In Auto Mode",NULL,0
+1361,"Same As Above",NULL,0
+1362,"How Light It Is",NULL,0
+1363,"High Resolution",NULL,0
+1364,"Noise",NULL,0
+1366,"Pic",NULL,0
+1367,"Design And Operation",NULL,0
+1368,"No Manual Focus",NULL,0
+1369,"IS",NULL,0
+1370,"GRID",NULL,0
+1371,"Can Focus Yourself",NULL,0
+1372,"Battery Life Long",NULL,0
+1373,"Build Of The Camera Is Good",NULL,0
+1374,"Vedio",NULL,0
+1377,"Lens, Price",NULL,0
+1378,"Focus - Lighting ",NULL,0
+1382,"Sturdiness - Weight ",NULL,0
+1383,"Guide Mode Affordability",NULL,0
+1385,"Lens/Range ",NULL,0
+1387,"Auto Picture",NULL,0
+1389,"Extras",NULL,0
+1391,"User-friendly",NULL,0
+1392,"Capability",NULL,0
+1393,"Useability",NULL,0
+1394,"Screen Picture Quality",NULL,0
+1395,"Function",NULL,0
+1396,"Facing Rear",NULL,0
+1397,"Keeping Child Cool",NULL,0
+1398,"Size, Too Big",NULL,0
+1399,"Installation Easy",NULL,0
+1400,"Delivery Time",NULL,0
+1401,"Comfort And Safety",NULL,0
+1402,"Fits In Even Small Cars",NULL,0
+1403,"Good For Even Newborns And Up",NULL,0
+1404,"Kids Love It",NULL,0
+1405,"Misleading",NULL,0
+1406,"Removable Fabric",NULL,0
+1407,"Padding Not Good",NULL,0
+1408,"Sun Visor Made Of Mesh",NULL,0
+1409,"Safe And Adjustable",NULL,0
+1411,"Good Price",NULL,0
+1412,"Overall Size (Fit In Car) ",NULL,0
+1413,"Nice Material",NULL,0
+1414,"Manufacturing",NULL,0
+1415,"Easy To Clean ",NULL,0
+1416,"Size Too Bulky",NULL,0
+1419,"Instructions Too Complicated",NULL,0
+1420,"Price For Quality ",NULL,0
+1422,"Weight And Height",NULL,0
+1425,"Child Comfortable",NULL,0
+1428,"Good Deal For The Price",NULL,0
+1429,"Rear-facing",NULL,0
+1430,"Headrest Removable",NULL,0
+1432,"Iso",NULL,0
+1433,"Sd Card Price",NULL,0
+1441,"User Experience",NULL,0
+1435,"Just An Upgrade",NULL,0
+1436,"No Audio Recording",NULL,0
+1437,"Additional Feature",NULL,0
+1438,"Built In Flash Sucks",NULL,0
+1439,"Worth The Price",NULL,0
+1440,"Compactability",NULL,0
+1442,"Good Overall Few Cons",NULL,0
+1443,"Sophistication",NULL,0
+1444,"Recieved For Shower",NULL,0
+1445,"Easy Instilation",NULL,0
+1446,"A Bit Inconvenient Bulky",NULL,0
+1447,"Contradiction",NULL,0
+1449,"Good Shipping",NULL,0
+1450,"Cant Put Behind Drivers Seat",NULL,0
+1451,"Just As Pictured",NULL,0
+1452,"Foits With 2 Other Seats",NULL,0
+1453,"Purchasing In Future",NULL,0
+1454,"Not Simple Instructions",NULL,0
+1455,"Wallet Friendly",NULL,0
+1457,"Experience",NULL,0
+1458,"Feedback",NULL,0
+1459,"Specifications",NULL,0
+1460,"Price/availability",NULL,0
+1467,"Cleanliness & Convenience",NULL,0
+1462,"Software/Auto-focus",NULL,0
+1464,"Feature Vs Price",NULL,0
+1466,"Cleanliness",NULL,0
+1468,"Comfort & Safety",NULL,0
+1469,"Comfort/Safety",NULL,0
+1470,"Overall Use",NULL,0
+1471,"Overall Usage",NULL,0
+1472,"Rankings",NULL,0
+1473,"Need To Buy Extra Parts",NULL,0
+1474,"Performance (speed)",NULL,0
+1475,"Good Camera/lens Combo",NULL,0
+1476,"Fast Startup",NULL,0
+1477,"Audio Recording",NULL,0
+1478,"Comfortable Usage",NULL,0
+1479,"Heavily Researched",NULL,0
+1481,"Menu System",NULL,0
+1482,"Loud Autofocus",NULL,0
+1483,"Voice Recording",NULL,0
+1484,"Same As Earlier Version",NULL,0
+1485,"1080p Video Quality",NULL,0
+1486,"Shoot Modes",NULL,0
+1487,"Good Video",NULL,0
+1488,"Low Res",NULL,0
+1489,"Components",NULL,0
+1491,"Image",NULL,0
+1504,"Easy Install",NULL,0
+1497,"Overall Value",NULL,0
+1498,"Upgrades",NULL,0
+1499,"Auto Mode Focus",NULL,0
+1500,"Auto Mode - Quality",NULL,0
+1505,"Cheap Material",NULL,0
+1502,"Auto Mode - Focus",NULL,0
+1508,"Large Size",NULL,0
+1510,"Seat Cover Material",NULL,0
+1511,"Cupholder",NULL,0
+1514,"Large Seat",NULL,0
+1515,"Delivery From Seller",NULL,0
+1516,"Ease To Clean",NULL,0
+1520,"Comfort - Breathability",NULL,0
+1521,"Comfort - Wings",NULL,0
+1522,"Harness",NULL,0
+1523,"Height/Weight Limits",NULL,0
+1524,"Comfrot",NULL,0
+1525,"Comfort - Heat",NULL,0
+1527,"Installations",NULL,0
+1528,"Cust Service",NULL,0
+1531,"Foccus in Live Mode Slow",NULL,NULL
+1533,"Auto Focus Slow",NULL,NULL
+1535,"Lense",NULL,NULL
+1537,"Articulating",NULL,NULL
+1608,"Aperature",NULL,0
+1609,"Pro & Con",NULL,0
+1610,"Pro And Cons",NULL,0
+1606,"Glare",NULL,0
+1607,"Flash Power",NULL,0
+1562,"Mango",NULL,0
+1628,"Doesn't Meet Standards",NULL,0
+1627,"Easy ",NULL,0
+1626,"Overall Quality Of Seat",NULL,0
+1625,"Seat Quaity",NULL,0
+1624,"Photos",NULL,0
+1623,"1080P Video Speed",NULL,0
+1622,"Instructions",NULL,0
+1621,"Denial Of A Ongoing Problem",NULL,0
+1620,"Built In Focus Motor",NULL,0
+1619,"Delays In Continuous Mode",NULL,0
+1618,"Lens ",NULL,0
+1617,"Con",NULL,0
+1616,"Number Of Positive Reviews/negative",NULL,0
+1615,"Number Of People Who Already Purchased",NULL,0
+1614,"Pro",NULL,0
+1613,"Cons",NULL,0
+1612,"Ease Of Use/installation",NULL,0
+1611,"Overall Review ",NULL,0
+1605,"Height",NULL,0
+1629,"Fits Seats With No Problem",NULL,0
+1630,"More Room Than Carrier Car Seat",NULL,0
+1631,"Rated #1 By Consumer Reports",NULL,0
+1632,"Replacement At No Charge",NULL,0
+1633,"Weight Limit Not Correctly Stated",NULL,0
+1634,"Easy To Clean",NULL,0
+1635,"Comfort ",NULL,0
+1636,"Safety With Rear Seat Faceing",NULL,0
+1637,"Installation Rear Seating",NULL,0
+1638,"U",NULL,0
+1639,"U",NULL,0
+1640,"Soft",NULL,0
+1641,"Safety ",NULL,0
+1642,"Visor Does Not Block Any Sun",NULL,0
+1643,"No Padding- Comfort",NULL,0
+1644,"Meets Standards",NULL,0
+1645,"Abilities",NULL,0
+1646,"Delay",NULL,0
+1647,"Structure",NULL,0
+1648,"Camera Structure",NULL,0
+1649,"Mode",NULL,0
+1650,"Image Stabilazation",NULL,0
+1651,"Autofocus",NULL,0
+1652,"Changing Settings Maunally",NULL,0
+1653,"Articulating Screen",NULL,0
+1654,"Auto Focus In Live View Mode",NULL,0
+1655,"High Iso Levels In Auto Mode",NULL,0
+1656,"Low Resolution Led Screen",NULL,0
+1657,"Comfortness",NULL,0
+1658,"Kid Likes It",NULL,0
+1659,"Rate",NULL,0
+1660,"Seat Cover",NULL,0
+1661,"Car Fits",NULL,0
+1662,"Tight Space",NULL,0
+1663,"Head Rest Is Removable",NULL,0
+1664,"National Rating",NULL,0
+1665,"Size Of Seat Is Fairly Large",NULL,0
+1666,"Installation Process",NULL,0
+1667,"Washing Most Of It",NULL,0
+1668,"Test",NULL,0
+1669,"Beginner's Lens",NULL,0
+1670,"Ratings",NULL,0
+1671,"Comparison To T2i",NULL,0
+1672,"Auto",NULL,0
+1673,"Value For Money",NULL,0
+1674,"Image Quality",NULL,0
+1675,"Easy To Use Easy Learning Curve",NULL,0
+1676,"Sturdiness",NULL,0
+1677,"File Size And Resolution",NULL,0
+1678,"Build Quality",NULL,0
+1679,"Automode",NULL,0
+1680,"Camparison To Buffer Speed Of T21",NULL,0
+1681,"Flip Out Viewfinder Versus Standard On T2i",NULL,0
+1682,"Options Available In Video Mode",NULL,0
+1683,"Poor Iso Choice In Auto Mode",NULL,0
+1684,"Value ",NULL,0
+1685,"Comparison Of Lcd Screen To T2i",NULL,0
+1686,"Consumer Reports",NULL,0
+1687,"Transition",NULL,0
+1688,"Comfort And Ease Of Install",NULL,0
+1689,"Comfort Of Child And Parent",NULL,0
+1690,"Instuction Materials",NULL,0
+1691,"Headrest",NULL,0
+1692,"Comfort Of Child",NULL,0
+1693,"Long Term Adjustability",NULL,0
+1694,"Style And Function",NULL,0
+1695,"Amount Or Placement Of Padding",NULL,0
+1696,"Ease Of Getting Child In And Out",NULL,0
+1697,"Picture Taking",NULL,0
+1698,"Flaqsh",NULL,0
+1699,"Video Performance",NULL,0
+1700,"For Beginners",NULL,0
+1701,"\"Prosumer\"",NULL,0
+1702,"Different Kinds Of Photos",NULL,0
+1703,"Skate/surf Video",NULL,0
+1704,"Zoom",NULL,0
+1705,"Macro Shots",NULL,0
+1706,"Picture Preview",NULL,0
+1707,"Beginner's Toy",NULL,0
+1708,"Dark Venues",NULL,0
+1709,"Price Saving Kit",NULL,0
+1710,"Low Light Video",NULL,0
+1711,"Portability",NULL,0
+1712,"First Time Users",NULL,0
+1713,"Slower Than T2i",NULL,0
+1714,"Sculptural Art",NULL,0
+1715,"Saving Formats",NULL,0
+1716,"Auto Foucus",NULL,0
+1717,"LCD Display",NULL,0
+1718,"Sensors",NULL,0
+1719,"Cable",NULL,0
+1720,"Memory Card Cost",NULL,0
+1721,"Dull Photos",NULL,0
+1722,"Beginners",NULL,0
+1723,"Handling",NULL,0
+1724,"Remote",NULL,0
+1725,"Customer Service",NULL,0
+1726,"Visibility ",NULL,0
+1727,"Outside Reviews",NULL,0
+1728,"Cleanable",NULL,0
+1729,"Big Space",NULL,0
+1730,"Space Fitting",NULL,0
+1731,"Adjust Strap Length",NULL,0
+1732,"Capacity",NULL,0
+1733,"Better Than Britax",NULL,0
+1734,"Safe And Secure",NULL,0
+1735,"Good For Infants And Toddlers",NULL,0
+1736,"Very Big. Might Not Fit In Small Cars",NULL,0
+1737,"Picture Q",NULL,0
+1738,"Description Is Bad",NULL,0
+1739,"Head/neck Support Cushion",NULL,0
+1740,"Infant Seat",NULL,0
+1741,"Space In Smaller Cars",NULL,0
+1742,"Aw",NULL,0
+1743,"Holding",NULL,0
+1744,"Washing",NULL,0
+1745,"Low",NULL,0
+1746,"Adjustable And Reclines",NULL,0
+1747,"Versatile",NULL,0
+1748,"Condition",NULL,0
+1749,"Adujustable",NULL,0
+1750,"Product Info",NULL,0
+1751,"Convenience Infant",NULL,0
+1752,"Convenience Toddler",NULL,0
+1753,"Versatility",NULL,0
+1754,"Com",NULL,0
+1755,"Adjustable Straps",NULL,0
+1756,"Breathable",NULL,0
+1757,"Stylish",NULL,0
+1758,"Transitions",NULL,0
+1759,"Adjustable ",NULL,0
+1760,"Vehicle",NULL,0
+1761,"Size For ",NULL,0
+1762,"Weight ",NULL,0
+1763,"A Beginner's Camera",NULL,0
+1764,"Lenses",NULL,0
+1765,"Size (lightweight)",NULL,0
+1766,"Comparison To T31",NULL,0
+1767,"Weigh",NULL,0
+1768,"Low-light Performance",NULL,0
+1769,"Lense Value",NULL,0
+1770,"Wide-angle Performance",NULL,0
+1771,"Video Auto-focus",NULL,0
+1772,"UV Filter For Lense",NULL,0
+1773,"Camera Performance",NULL,0
+1774,"More Lenses",NULL,0
+1775,"Grid On Screen",NULL,0
+1776,"Lens Kit",NULL,0
+1777,"A Beginner's Camera",NULL,0
+1778,"Interface",NULL,0
+1779,"Saftey",NULL,0
+1780,"Easy To Use",NULL,0
+1781,"Rating",NULL,0
+1782,"Low Light Auto Focus",NULL,0
+1783,"Built-in Falsh",NULL,0
+1784,"Comments",NULL,0
+1785,"Comments#price",NULL,0
+1786,"Iso Button",NULL,0
+1787,"D3100_price_coupon",NULL,0
+1788,"White Balance",NULL,0
+1789,"T3i_comments_comp",NULL,0
+1790,"T2i_commems_comp",NULL,0
+1791,"Operate",NULL,0
+1792,"Quality Of Videos",NULL,0
+1793,"Wireless Remote",NULL,0
+1794,"Dur",NULL,0
+1795,"Video Qualit",NULL,0
+1796,"Video ",NULL,0
+1797,"Digital 3X Zoom",NULL,0
+1798,"For Beginner",NULL,0
+1799,"Usability",NULL,0
+1800,"Photo/video Quality",NULL,0
+1801,"Menu",NULL,0
+1802,"Save About $100",NULL,0
+1803,"Could Pair It With EF-S 17 55 Mm F/2.8IS",NULL,0
+1804,"I",NULL,0
+1805,"Best Bang For Your Buck",NULL,0
+1806,"Good For Beginners",NULL,0
+1807,"Co",NULL,0
+1808,"In",NULL,0
+1809,"Need A Lot Of Storage Space",NULL,0
+1810,"Best Balance For Wedding Pictures",NULL,0
+1811,"Rugged Enough",NULL,0
+1812,"T2i Is Fast",NULL,0
+1813,"Too Much Delays",NULL,0
+1814,"Do Not Have A Built In Focus Motor",NULL,0
+1815,"Quality Is Amazing",NULL,0
+1816,"Tight On Power Comsumption",NULL,0
+1817,"Flip Out LCD Screem",NULL,0
+1818,"Bad Nikon Warranty",NULL,0
+1819,"Dedicated Iso Button Making It Easy To Change",NULL,0
+1820,"Wallet Friendly ",NULL,0
+1821,"Diffcult To Install ",NULL,0
+1822,"Please Their Customers",NULL,0
+1823,"Size Is Pretty Big",NULL,0
+1824,"Seat Seam Padded Well And Comfortable",NULL,0
+1825,"Chair Is Excellent Quality",NULL,0
+1826,"No Rethread Harness Is Awesome",NULL,0
+1827,"Hats",NULL,0
+1828,"Advanced Skill",NULL,0
+1829,"Ergonomic Arrangement Of Controls",NULL,0
+1830,"Quality Of Picture And Weight",NULL,0
+1831,"Low Resolution Of LCD Screen",NULL,0
+1832,"Use-friendliness",NULL,0
+1833,"Different Shots",NULL,0
+1834,"Manual Mode",NULL,0
+1835,"High Speed And Memory Card",NULL,0
+1836,"User-friendliness",NULL,0
+1837,"Autofocus When Zooming",NULL,0
+1838,"White Balance In Auto Mode",NULL,0
+1839,"Valu",NULL,0
+1840,"Colors",NULL,0
+1841,"Build",NULL,0
+1842,"Stabilization",NULL,0
+1843,"Installation Ease",NULL,0
+1844,"Texture",NULL,0
+1845,"Materials",NULL,0
+1846,"Color",NULL,0
+1847,"Looks",NULL,0
+1848,"Build",NULL,0
+1849,"Great Lens",NULL,0
+1850,"Little Shutter",NULL,0
+1851,"U",NULL,0
+1852,"U",NULL,0
+1853,"Good Low Light",NULL,0
+1854,"U",NULL,0
+1855,"U",NULL,0
+1856,"And Videos",NULL,0
+1857,"No Auto-focus",NULL,0
+1858,"Shutter Lag",NULL,0
+1859,"Ergonomic Button Settings",NULL,0
+1860,"Camera Feels Solid And Good Grip",NULL,0
+1861,"Not Pro Level SLR",NULL,0
+1862,"Auto Focus Is Terrible",NULL,0
+1863,"Good Quality For Videos",NULL,0
+1864,"Very Fast Auto Focus",NULL,0
+1865,"No Wireless Remote",NULL,0
+1866,"Battery Life Is Bad",NULL,0
+1867,"Safest Baby Seat On Market",NULL,0
+1868,"Their Son Loves It",NULL,0
+1869,"Is Very Big",NULL,0
+1870,"Catches Stuff Under The Seat",NULL,0
+1871,"Can Only Hold Up To 50 Lbs",NULL,0
+1872,"Very Bulky",NULL,0
+1873,"Very Secure And Kids Love Them",NULL,0
+1874,"Simplicity",NULL,0
+1875,"Fairly Priced",NULL,0
+1876,"Material Is Very Soft Good For Babies",NULL,0
+1877,"Poorly Built Visor Allows Light In",NULL,0
+1878,"Babies Sitting On Hard Plastic",NULL,0
+1879,"Low Light Performance",NULL,0
+1880,"Intermediate Shooters",NULL,0
+1881,"Image Stabilisation",NULL,0
+1882,"Movable LCD Screen",NULL,0
+1883,"Auto Mode Picture Quality",NULL,0
+1884,"Guide Mode For Beginners",NULL,0
+1885,"No Blockage Of View",NULL,0
+1886,"Product Description",NULL,0
+1887,"Safety Tested",NULL,0
+1888,"Photo Quality",NULL,0
+1889,"Beginning User",NULL,0
+1890,"Cup-holder",NULL,0
+1891,"Lens\\",NULL,0
+1892,"Usability",NULL,0
+1893,"Weight Limit",NULL,0
+1894,"Convenience",NULL,0
+1895,"DSLR",NULL,0
+1896,"Recordi",NULL,0
+1897,"Quality Of Pictures",NULL,0
+1898,"Confort And Installation",NULL,0
+1899,"Material Cleaning",NULL,0
+1900,"Deliver",NULL,0
+1901,"Size (big)",NULL,0
+1902,"Removable Parts",NULL,0
+1903,"Holding Weight",NULL,0
+1904,"Height Adjustment",NULL,0
+1905,"S",NULL,0
+1906,"Wing Cleaning",NULL,0
+1907,"Pricing",NULL,0
+1908,"Strap Adjustment",NULL,0
+1909,"Price Comparisaon",NULL,0
+1910,"Price Comparison",NULL,0
+1911,"Darn Sun Visor",NULL,0
+1912,"Price Comparison",NULL,0
+1913,"Paddin",NULL,0
+1914,"Headrest",NULL,0
+1915,"Materi",NULL,0
+1916,"Z",NULL,0
+1917,"Advice",NULL,0
+1918,"Advice",NULL,0
+1919,"Sensor",NULL,0
+1920,"Er",NULL,0
+1921,"Advice",NULL,0
+1922,"B",NULL,0
+1923,"Advice",NULL,0
+1924,"Filter",NULL,0
+1925,"Safety",NULL,0
+1926,"Bugs",NULL,0
+1927,"Application",NULL,0
+1928,"Editing",NULL,0
+1929,"Additional Features",NULL,0
+1930,"Additional Features",NULL,0
+1931,"L",NULL,0
+1932,"Screeen",NULL,0
+1933,"Shoots Great In Low Light",NULL,0
+1934,"Reclines",NULL,0
+1935,"Child Fusses Less",NULL,0
+1936,"Speed ",NULL,0
+1937,"Material Scratches Easily",NULL,0
+1938,"Well Padded And Easy To Install",NULL,0
+1939,"Weight ",NULL,0
+1940,"Slo",NULL,0
+1941,"Comfort And Installation",NULL,0
+1942,"Video Price ",NULL,0
+1943,"Safety First",NULL,0
+1944,"Weight Limits",NULL,0
+1945,"Battery Life, Low Resolution  LCD Screen",NULL,0
+1946,"Playback",NULL,0
+1947,"Child Comfort Level",NULL,0
+1948,"Not Easy To Clean",NULL,0
+1949,"Comparison With T3i",NULL,0
+1950,"Comparing Another Nodel",NULL,0
+1951,",speed",NULL,0
+1952,"Keeps Child Temperature At A Comfortable Level",NULL,0
+1953,"Price,",NULL,0
+1954,"Flip Screen",NULL,0
+1955,"Name Of Product",NULL,0
+1956,"Qula",NULL,0
+1957,"Side Crash Tested",NULL,0
+1958,"HDMI Cable",NULL,0
+1959,"Getting Child In And Out",NULL,0
+1960,"Working With Other Products",NULL,0
+1961,"Body Comparison With Canon T2i",NULL,0
+1962,"Lack Of Padding",NULL,0
+1963,"Great Custome",NULL,0
+1964,"Cup Holder",NULL,0
+1965,"Seat Protector",NULL,0
+1966,"No Adjustable Straps",NULL,0
+1967,"Difficult To Install ",NULL,0
+1968,"Change Size",NULL,0
+1969,"Usage",NULL,0
+1970,"Featurs",NULL,0
+1971,"Headrest Comfortable",NULL,0
+1972,"Cleaning Comfortable",NULL,0
+1973,"Strap",NULL,0
+1974,"Baby Proofing",NULL,0
+1975,"Installation Comfortable",NULL,0
+1976,"Fabric",NULL,0
+1977,"Stroller Compatible",NULL,0
+1978,"Age",NULL,0
+1979,"Toddler",NULL,0
+1980,"Material Used",NULL,0
+1981,"Build Quality",NULL,0
+1982,"Safety FEatures",NULL,0
+1983,"Additional Things Required",NULL,0
+1984,"Ease Of Cleaning\\",NULL,0
+1985,"Ease Of Cleaning\\",NULL,0
+1986,"Ease Of Cleaning\\",NULL,0
+1987,"Seat Adjustment",NULL,0
+1988,"Annoying Features",NULL,0
+1989,"Battery Life ",NULL,0
+1990,"Price Speed",NULL,0
+1991,"Overall Performance ",NULL,0
+1992,"Control",NULL,0
+1993,"Raw Pictures",NULL,0
+1994,"Overall ",NULL,0
+1995,"Shoot ",NULL,0
+1996,"Burst Mode",NULL,0
+1997,"Picture Quality Price",NULL,0
+1998,"ISO Mode",NULL,0
+1999,"Qual",NULL,0
+2000,"Portability",NULL,0
+2001,"Specs",NULL,0
+2002,"Materail",NULL,0
+2003,"Accesories",NULL,0
+2004,"Fabric Quality",NULL,0
+2005,"Performance And Weight",NULL,0
+2006,"Price And Focus",NULL,0
+2007,"Light",NULL,0
+2008,"Auto Setting",NULL,0
+2009,"Is Good First Time Dslr",NULL,0
+2010,"The Flash Is Not So Good",NULL,0
+2011,"Lens Compared To Others",NULL,0
+2012,"Output",NULL,0
+2013,"Video Taking",NULL,0
+2014,"Help Function",NULL,0
+2015,"Great Performance",NULL,0
+2016,"Adaptability For Beginners ",NULL,0
+2017,"Picture Is Slow ",NULL,0
+2018,"Recommendations",NULL,0
+2019,"Wide Angle Settings",NULL,0
+2020,"Auto ISO Level Chossing",NULL,0
+2021,"Agreement",NULL,0
+2022,"\\",NULL,0
+2023,"\\",NULL,0
+2024,"Pricey But Great Camera",NULL,0
+2025,"Varitey",NULL,0
+2026,"Focus Speed",NULL,0
+2027,"Slow Motion",NULL,0
+2028,"Noise Of Lens",NULL,0
+2029,"Lens Performance",NULL,0
+2030,"Audio Levels",NULL,0
+2031,"Compar",NULL,0
+2032,"Featu",NULL,0
+2033,"Compa",NULL,0
+2034,"Video Recording ",NULL,0
+2035,"Camera's Auto Focus",NULL,0
+2036,"Beginner",NULL,0
+2037,"Argument",NULL,0
+2038,"Recommendation",NULL,0
+2039,"Buying Extras For The Camera",NULL,0
+2040,"Featu",NULL,0
+2041,"Exposure And Image Quality",NULL,0
+2042,"Compatability",NULL,0
+2043,"Qual",NULL,0
+2044,"It Is A Slow ",NULL,0
+2045,"It Is A Slow Camera",NULL,0
+2046,"Bad",NULL,0
+2047,"Adaptability For Beginners",NULL,0
+2048,"It Is Good For On The Go.",NULL,0
+2049,"Zoom Capabilities",NULL,0
+2050,"Manual",NULL,0
+2051,"Unprofessional",NULL,0
+2052,"Focusing And Flexibility",NULL,0
+2053,"Affordable",NULL,0
+2054,"It Take Nice Large Jpage",NULL,0
+2055,"It Has A Nice Wait To It",NULL,0
+2056,"Focusing Motors",NULL,0
+2057,"Live View Feature",NULL,0
+2058,"Picture Quality On Auto Mode",NULL,0
+2059,"It Take Fast Shots",NULL,0
+2060,"It Take Good Video",NULL,0
+2061,"It Is Better Then The T3I",NULL,0
+2062,"Seating",NULL,0
+2063,"Good Reviews",NULL,0
+2064,"Cheap",NULL,0
+2065,"Not Washable",NULL,0
+2066,"Comf",NULL,0
+2067,"Cle",NULL,0
+2068,"Com",NULL,0
+2069,"Sa",NULL,0
+2070,"Pri",NULL,0
+2071,"Qual;ity",NULL,0
+2072,"Upgrade",NULL,0
+2073,"C",NULL,0
+2074,"Upgrade",NULL,0
+2075,"Cost Of Lens",NULL,0
+2076,"Attributes",NULL,0
+2077,"Acessories",NULL,0
+2078,"Quality Of PIcture",NULL,0
+2079,"Installation ",NULL,0
+2080,"Easy Installation ",NULL,0
+2081,"Position",NULL,0
+2082,"Easy To Cary",NULL,0
+2083,"Pros And Cons",NULL,0
+2084,"Easy To Carry",NULL,0
+2085,"Pricey And Flash Is Not Good",NULL,0
+2086,"Crop Body Camera",NULL,0
+2087,"Get Nice Complements",NULL,0
+2088,"Great Shot Of Moving Characters",NULL,0
+2089,"Audip",NULL,0
+2090,"T2I Is Faster",NULL,0
+2091,"Pixel",NULL,0
+2092,"Processor",NULL,0
+2093,"Film",NULL,0
+2094,"Pixel ",NULL,0
+2095,"Operations Video Quality",NULL,0
+2096,"1080p And Better Menu",NULL,0
+2097,"Overall Usage",NULL,0
+2098,"Wide-Angle Setting",NULL,0
+2099,"Po",NULL,0
+2100,"Nature",NULL,0
+2101,"Sp",NULL,0
+2102,"Portrait",NULL,0
+2103,"Portrait",NULL,0
+2104,"Sports",NULL,0
+2105,"Nature",NULL,0
+2106,"Compared To Other Cameras",NULL,0
+2107,"Articulating LCD Screen",NULL,0
+2108,"Detailed Zoom",NULL,0
+2109,"Grid Function",NULL,0
+2110,"AV Mode",NULL,0
+2111,"Mi",NULL,0
+2112,"Ove",NULL,0
+2113,"Min Shutter Speed",NULL,0
+2114,"AV Mode",NULL,0
+2115,"Over",NULL,0
+2116,"Low Cost",NULL,0
+2117,"Low Cost",NULL,0
+2118,"Dimensions",NULL,0
+2119,"Take Apart",NULL,0
+2120,"Protection",NULL,0
+2121,"Scratchy",NULL,0
+2122,"Seurity",NULL,0
+2123,"Fuzzy",NULL,0
+2124,"No Padding",NULL,0
+2125,"Delivery Speed",NULL,0
+2126,"Different Level Adjustmenst ",NULL,0
+2127,"Not Enough Padding In The Seat",NULL,0
+2128,"Overall Performance",NULL,0
+2129,"ComfortS",NULL,0
+2130,"Sound",NULL,0
+2131,"Shooting Speed",NULL,0
+2132,"Le",NULL,0
+2133,"Auto Mode Logic",NULL,0
+2134,"Lens Noise",NULL,0
+2135,"Picture Quality ",NULL,0
+2136,"General Performance",NULL,0
+2137,"General Performance",NULL,0
+2138,"Video Features",NULL,0
+2139,"Overall Rating",NULL,0
+2140,"Weight Capacity",NULL,0
+2141,"Sag",NULL,0
+2142,"Long-lasting",NULL,0
+2143,"Speed",NULL,0
+2144,"Qua",NULL,0
+2145,"Hd Capability",NULL,0
+2146,"Comparison Vs T2i",NULL,0
+2147,"Serious Photography",NULL,0
+2148,"Price Of Lens",NULL,0
+2149,"Outdoor Shoot",NULL,0
+2150,"Overall Camera",NULL,0
+2151,"Astrophotography",NULL,0
+2152,"Low Resolution",NULL,0
+2153,"Low Battery Life",NULL,0
+2154,"Noisy",NULL,0
+2155,"Professionalism",NULL,0
+2156,"Specifics",NULL,0
+2157,"Use",NULL,0
+2158,"Cover",NULL,0
+2159,"Summers",NULL,0
+2160,"User Feedback",NULL,0
+2161,"Independent Rating",NULL,0
+2162,"Complications",NULL,0
+2163,"Options",NULL,0
+2164,"Large",NULL,0
+2165,"Specifics",NULL,0
+2166,"Shutterlag",NULL,0
+2167,"Max Burst Rate",NULL,0
+2168,"Good For Trips",NULL,0
+2169,"Purchase",NULL,0
+2170,"Slow Speed",NULL,0
+2171,"User-friendly Control",NULL,0
+2172,"Sports Video",NULL,0
+2173,"ISO Firmware",NULL,0
+2174,"Sh",NULL,0
+2175,"Auto Point",NULL,0
+2176,"Good Shots",NULL,0
+2177,"Good Lense",NULL,0
+2178,"Bad GRID Fuctions",NULL,0
+2179,"Slow Auto-focus",NULL,0
+2180,"Good Service",NULL,0
+2181,"Auto-mode",NULL,0
+2182,"Easy Operation",NULL,0
+2183,"Light Weight, Easy Operation",NULL,0
+2184,"Easy Operation",NULL,0
+2185,"Low LCD Resolution",NULL,0
+2186,"Snug",NULL,0
+2187,"Rear",NULL,0
+2188,"Pri",NULL,0
+2189,"Head Set",NULL,0
+2190,"User Experience",NULL,0
+2191,"Ranking",NULL,0
+2192,"Baby Shower Gift Option",NULL,0
+2193,"Buckle",NULL,0

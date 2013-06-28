@@ -1,0 +1,104 @@
+import nltk
+import re
+from nltk.stem.porter import PorterStemmer
+
+ps = PorterStemmer()
+stopwords = set(open("stopwords.txt").read().split())
+
+def build_tf(document):
+	tf = {}
+	sentences = nltk.sent_tokenize(document.strip())
+	words = [nltk.word_tokenize(s) for s in sentences]
+	tagged = nltk.tag.batch_pos_tag(words)
+	for sentence in tagged:
+		for (word, tag) in sentence:
+			if not tag.startswith("N") or tag == "None" : continue
+			word = word.lower()
+			if word in stopwords: continue
+			word = ps.stem(word)
+			if word not in tf:
+				tf[word] = 0
+			tf[word] += 1
+	return tf
+
+def build_tf_idf(tf, idf):
+	max_score = max(idf.values())
+	for word in tf:
+		if word not in idf:
+			idf[word] = max_score
+	return {word : count*idf[word] for word, count in tf.iteritems()}
+
+def read_idf(path):
+	idf = {}
+	for line in open(path):
+		try: word, score = line.split()
+		except: continue
+		idf[word] = score
+	return idf
+
+def find_keywords(text, idf):
+	tf = build_tf(text)
+	tf_idf = build_tf_idf(tf, idf)
+	tf_idf = sorted(tf_idf, key=tf_idf.get, reverse=True)
+	return tf_idf[:4]
+
+# list of (clip, correct labels, guess labels)
+def evaluate(clips):
+	score = 0.0
+	for (clip, correct, guesses) in clips:
+		print "Clip:", clip
+		print "Length:", len(clip)
+		print "Generated options:", guesses
+		print "Number of options:", len(guesses)
+		print "Labels:", correct
+		intersection = set(guesses) & set(correct)
+		print "Score:",
+		if intersection:
+			score += 1
+			print 1
+		else: 
+			print 0
+		print
+	print "Overall score:", score/len(clips)
+
+def test1():
+	clips = []
+	for line in open("clipper_data/selected_labels.txt"):
+		parts = line.split("\t")
+		print "Clip:", parts[1],
+		print "Human label:", parts[0]
+		print "Machine labels:",
+		keywords = set(find_keywords(parts[1], idf))
+		clips.append((parts[1], parts[0], keywords))
+		for word in parts[1].split():
+			if not keywords: break
+			word2 = ps.stem(word.lower())
+			if word2 in keywords:
+				print word + ",",
+				keywords.remove(word2)
+		print "\n"
+	evaluate(clips)
+
+def test2():
+	clips = []
+	for line in open("clipper_data/newExpandedLabels.txt").read().split("\r"):
+		labels, clip = line.split("\t")[:2]
+		labels = labels.split()
+		print "Clip:", clip
+		print "Human labels:", labels
+		keywords = set(find_keywords(clip, idf))
+		print "Machine labels:", keywords
+		labels = [ps.stem(word.lower()) for word in labels]
+		clips.append((clip, labels, keywords))
+		for word in clip:
+			if not keywords: break
+			word2 = ps.stem(word.lower())
+			if word2 in keywords:
+				print word + ",",
+				keywords.remove(word2)
+		print "\n"
+	evaluate(clips)
+
+if __name__ == "__main__":
+	idf = read_idf("idf.txt")
+	test2()
