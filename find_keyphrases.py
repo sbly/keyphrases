@@ -7,21 +7,21 @@ import string
 ps = PorterStemmer()
 stopwords = set(open("stopwords.txt").read().split())
 
-def build_tf(document):
+def build_tf(document, grams):
 	tf = {}
 	sentences = nltk.sent_tokenize(document.strip())
 	sentences = [nltk.word_tokenize(s) for s in sentences]
-	tagged = nltk.tag.batch_pos_tag(sentences)
-	for sentence in tagged:
-		for (word, tag) in sentence:
-			if not (tag.startswith("N") or tag.startswith("V")): continue
-			if tag == "None": continue
-			word = word.lower()
-			if word in stopwords: continue
-			word = ps.stem(word)
-			if word not in tf:
-				tf[word] = 0
-			tf[word] += 1
+	#tagged = nltk.tag.batch_pos_tag(sentences)
+	for sent in sentences:
+		sent = [word for word in sent if word not in string.punctuation]
+		sent = [word.lower().strip() for word in sent]
+		sent = [ps.stem(word) for word in sent if word not in stopwords]
+		for n in range(grams):
+			for i in range(len(sent)):
+				window = tuple(sent[i:i+n+1])
+				if window not in tf:
+					tf[window] = 0
+				tf[window] += 1
 	return tf
 
 def build_tf_idf(tf, idf):
@@ -41,7 +41,7 @@ def read_idf(path):
 	return idf
 
 def find_keywords(text, idf):
-	tf = build_tf(text)
+	tf = build_tf(text, 2)
 	tf_idf = build_tf_idf(tf, idf)
 	tf_idf = sorted(tf_idf, key=tf_idf.get, reverse=True)
 	return tf_idf[:4]
